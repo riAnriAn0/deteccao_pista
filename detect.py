@@ -10,7 +10,7 @@ from tflite_support.task import vision
 
 
 MODEL_PATH = 'modelo/pista1.tflite'
-CAM_ID = 'video.mp4'
+CAM_ID = 'videos/video2.mp4'
 FRAME_WIDTH = 160
 FRAME_HEIGHT = 160
 NUM_THREADS = 4
